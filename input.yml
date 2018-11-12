@@ -1,0 +1,12 @@
+file3:
+  class: File
+  path: code/file3.root
+file2:
+  class: File
+  path: code/file2.root
+file1:
+  class: File
+  path: code/file1.root
+lumi:
+  class: Directory
+  path: code/lumi
